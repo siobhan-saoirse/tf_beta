@@ -18,7 +18,7 @@
 	"$burnlevel" "0"
 
 
-	"$phong" "1"
+	"$phong" "0"
 	"$phongexponent" "5"
 	"$phongboost" "1"	
 	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"

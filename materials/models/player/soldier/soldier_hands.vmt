@@ -3,7 +3,7 @@
 	"$basetexture" "models\player\soldier\soldier_hands"
 	"$basemapalphaphongmask" "1"
 
-	"$phong" "1"
+	"$phong" "0"
 	//"$phongexponenttexture" "models\player\soldier\soldier_exponent"
 	"$phongexponent" "10"
 	"$phongboost" ".65"	

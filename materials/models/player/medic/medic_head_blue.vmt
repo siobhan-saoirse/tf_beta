@@ -18,11 +18,11 @@
 	"$burnlevel" "0"
 
 
-	"$phong" "1"
+	"$phong" "0"
 	"$phongexponent" "20"
 	"$lightwarptexture" "models/player/medic/medic_head_lightwarp"
 	"$phongfresnelranges"	"[.3 1 8]"
-	"$halflambert" "0"
+	"$halflambert" "1"
 
 	// Rim lighting parameters
 	"$rimlight" "1"												// To enable rim lighting (requires phong)

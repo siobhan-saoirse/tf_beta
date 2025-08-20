@@ -3,7 +3,7 @@
 	"$basetexture" "models/player/engineer/engineer_handR"
 	"$basemapalphaphongmask" "1"
 
-	"$phong" "1"
+	"$phong" "0"
 	"$phongexponent" "80"
 	"$phongboost" ".5"	
 	"$lightwarptexture" "models/player/engineer/engineer_hands_lightwarp"

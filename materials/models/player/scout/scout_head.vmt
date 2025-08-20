@@ -4,7 +4,7 @@
 	"$basetexture" "models/player/scout/scout_head"
 //	"$bumpmap" "models/player/scout/scout_head_normal"
 		
-	"$phong" "1"
+	"$phong" "0"
 	"$phongexponent" "20"
 	//"$phongexponenttexture" "models/player/scout/scout_head"
 	"$phongboost" "2"	

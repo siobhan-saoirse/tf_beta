@@ -30,7 +30,7 @@
 	"$invulnfmaxfull" "18"
 	"$invulnfmaxoutput" "1"
 
-	"$phong" "1"
+	"$phong" "0"
 	"$phongexponent"  "35"
 	"$phongboost" "1"	
 	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
