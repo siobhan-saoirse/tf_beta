@@ -96,6 +96,13 @@
 			"show_subtitle"				"1"
 			"subtitle"				"No"
 		}
+				
+		"item_9"
+		{
+			"concept"				"TLK_PLAYER_TAUNTS"	
+			"menu_label"				"Taunts"	
+			"show_subtitle"				"1"
+		}
 		
 
 	}
@@ -168,7 +175,14 @@
 			"distance_check_subtitle"		"1"
 			"menu_label"				"#Voice_Menu_ChargeReady"
 			"activity"				"ACT_MP_GESTURE_VC_THUMBSUP"	
-		}	
+		}
+					
+		"item_9"
+		{
+			"concept"				"TLK_PLAYER_TAUNTS"	
+			"menu_label"				"Taunts"	
+			"show_subtitle"				"1"
+		}
 	}
 
 
@@ -227,6 +241,12 @@
 			"activity"				"ACT_MP_GESTURE_VC_THUMBSUP"
 		}
 		
-
+				
+		"item_9"
+		{
+			"concept"				"TLK_PLAYER_TAUNTS"	
+			"menu_label"				"Taunts"	
+			"show_subtitle"				"1"
+		}
 	}
 }
