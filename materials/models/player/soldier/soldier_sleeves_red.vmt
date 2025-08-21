@@ -4,7 +4,7 @@
 
 	"$bumpmap" "models\player\soldier\soldier_sleeves_normal"
 
-	"$phong" "0"
+	"$phong" "1"
 	//"$phongexponenttexture" "models\player\soldier\soldier_exponent"
 	"$phongexponent" "3"
 	"$phongboost" ".03"	
